@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/project/crab-robot/software/esp32/CrabRN/build/CMakeFiles/bootloader
+F:/project/crab-robot/software/esp32/CrabRN/build/CMakeFiles/bootloader.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/CMakeFiles/bootloader-complete.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/project/crab-robot/software/esp32/CrabRN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
